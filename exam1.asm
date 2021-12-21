@@ -28,7 +28,3 @@ mov byte [0x0f], 0x04
 mov byte [0x10], '.'
 mov byte [0x11], 0x04
 
-
-
-12
-123
